@@ -14,6 +14,8 @@ This organization contains all the important repositories required to build cust
 ### Other required repositories
 * [**MediaTek sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**MediaTek hardware**](https://github.com/LineageOS/android_hardware_mediatek) (`android_hardware_mediatek`)
+* [**Hardware Dolby**](https://github.com/swiitch-OFF-Lab/hardware_dolby/tree/sony-A17) (`android_hardware_dolby`)
+* [**Dolby UI**](https://github.com/swiitch-OFF-Lab/packages_apps_DolbyUI/tree/a) (`android_packages_apps_DolbyUI`)
 
 
 ### Required patches
