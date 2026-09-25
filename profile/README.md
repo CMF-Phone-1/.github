@@ -23,7 +23,7 @@ This organization contains all the important repositories required to build cust
 * [**Add dither logic for MTK udfps optical**](https://github.com/Nothing-2A/android_frameworks_native/commit/7b7807349f7b66c61444e32e4a26b025932117d8) (`android_frameworks_native`)
 * [**SystemUI: Reverse MediaTek udfps dimlayer changes**](https://github.com/Nothing-2A/android_frameworks_base/commit/71955520858075bfeb8b52009151ba20401f27e3) (`android_frameworks_base`)
 
-### Optional patches (fenrir patched LK support, use at your own risk)
+### fenrir patched LK support
 * [**Allow booting with fenrir patched LKs**](https://github.com/CMF-Phone-1/android_system_fs_fs_mgr/commit/c02c41f0bdfc106ef260125361681076c9c01fee) (`android_system_fs_fs_mgr`)
 * [**Allow flashing images from fastbootd with fenrir patched LKs**](https://github.com/CMF-Phone-1/platform_system_core/commit/6beb2eaff61ae6d77e07e89629f819cd18feee49) (`android_system_core`)
 
