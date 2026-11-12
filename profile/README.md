@@ -22,7 +22,7 @@ This organization contains all the important repositories required to build cust
 * [**Add 60FPS recording on Aperture (1)**](https://github.com/CMF-Phone-1/platform_packages_apps_Aperture/commit/1c7dc37dd2721e5207d0eabe988b2c8acd8bf840) [**(2)**](https://github.com/CMF-Phone-1/platform_packages_apps_Aperture/commit/00e223c82aa4acf7d15a4e7b556897af19d4a1ff) (`android_packages_apps_Aperture`)
 * [**UdfpsHelper: Add option to only dim while pressed**](https://github.com/CMF-Phone-1/platform_frameworks_base/commit/3833af3b5e4b77f96473c4ec6b03392389938e32) (`android_frameworks_base`)
 
-### fenrir patched LK support
+### Optional patches (fenrir patched LK support, use at your own risk)
 * [**Allow booting with fenrir patched LKs**](https://github.com/CMF-Phone-1/android_system_fs_fs_mgr/commit/c02c41f0bdfc106ef260125361681076c9c01fee) (`android_system_fs_fs_mgr`)
 * [**Allow flashing images from fastbootd with fenrir patched LKs**](https://github.com/CMF-Phone-1/platform_system_core/commit/6beb2eaff61ae6d77e07e89629f819cd18feee49) (`android_system_core`)
 
